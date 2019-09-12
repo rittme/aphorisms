@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "346d9460c16705e5f0939cbd4f8b96cc",
+    "revision": "8da2385628aa9903ae18387f3481a8cd",
     "url": "/procrustes/index.html"
   },
   {
-    "revision": "aeb754107d2fd5989cf9",
+    "revision": "8d900be504a2002dbd32",
     "url": "/procrustes/static/css/main.22b34e69.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/procrustes/static/js/2.44242e7d.chunk.js"
   },
   {
-    "revision": "aeb754107d2fd5989cf9",
-    "url": "/procrustes/static/js/main.3f32874b.chunk.js"
+    "revision": "8d900be504a2002dbd32",
+    "url": "/procrustes/static/js/main.490f3bcc.chunk.js"
   },
   {
     "revision": "35a60ef30ddd9a287d5c",
