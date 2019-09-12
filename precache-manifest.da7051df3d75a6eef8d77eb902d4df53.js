@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8da2385628aa9903ae18387f3481a8cd",
+    "revision": "bf6c66e83970441c7f5802916369c27b",
     "url": "/procrustes/index.html"
   },
   {
